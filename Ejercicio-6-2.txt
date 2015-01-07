@@ -1,0 +1,1 @@
+El precio en lugar de estar vinculado a la relación "vende", sería un atributo de "Medicamento".
